@@ -1,1 +1,1 @@
-Java repository for my java sample codes
+Java repository for my java sample code
