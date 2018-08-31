@@ -1,6 +1,0 @@
-StringLog -> A log "remember" the elements placed into it
-             A log must have a name
-             
-ArrayStringLog ->Array based implementation of stringLog with maximum 10 default capacity.
-
-LinkedStringLog ->Linked list based implementation of stringLog with no limit.
