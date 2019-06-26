@@ -6,3 +6,7 @@
 >Splitwise
 
 >Sudoku
+
+>MarsRover Problem 
+
+>Chess game
