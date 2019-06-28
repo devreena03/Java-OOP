@@ -5,12 +5,12 @@ import com.reena.marsrover.Position;
 public class South implements Direction {
 	@Override
 	public Direction moveLeft() {
-		return new East();	
+		return DIRECTION_LOOKUP.get('E');	
 	}
 
 	@Override
 	public Direction moveRight() {
-		return new West();		
+		return DIRECTION_LOOKUP.get('W');		
 	}
 	
 	@Override

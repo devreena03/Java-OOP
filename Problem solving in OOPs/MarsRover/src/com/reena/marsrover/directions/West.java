@@ -6,12 +6,12 @@ public class West implements Direction {
 
 	@Override
 	public Direction moveLeft() {
-		return new South();	
+		return DIRECTION_LOOKUP.get('S');	
 	}
 
 	@Override
 	public Direction moveRight() {
-		return new North();		
+		return DIRECTION_LOOKUP.get('N');		
 	}
 	
 	@Override
